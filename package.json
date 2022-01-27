@@ -1,0 +1,11 @@
+{
+  "name": "ns-ddfe-node",
+  "version": "1.0.0",
+  "description": "Biblioteca em node da NS Tecnologia para comunicação com a API de DDFe.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NS Tecnologia",
+  "license": "ISC"
+}
